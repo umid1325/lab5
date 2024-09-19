@@ -1,0 +1,4 @@
+/Users/u.mamasaliyev/CLionProjects/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+/Users/u.mamasaliyev/CLionProjects/lab5/cmake-build-debug/CMakeFiles/random.dir
+/Users/u.mamasaliyev/CLionProjects/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/u.mamasaliyev/CLionProjects/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
